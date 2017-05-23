@@ -39,7 +39,7 @@ void insertScore(int *array, int value){
 		}
 		printf("Sucess\n");
 	}else{
-		printf("Score baixo\n");
+		printf("Low score\n");
 		return;	
 	}
 }
